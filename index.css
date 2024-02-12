@@ -1,0 +1,70 @@
+.picture {
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .front {
+    padding-top: 50px;
+    padding-right: 250px;
+    padding-left: 250px;
+    text-align: center;
+  }
+  
+  .qInfo {
+    display: table;
+    margin: 0 auto;
+  }
+  
+  .qHeader {
+    text-align: center;
+  }
+  
+  .techQ {
+    padding-left: 280px;
+  }
+  
+  .list {
+    text-align: left;
+  }
+  
+  .work1 {
+    background-color: rgba(211, 211, 211, 0.686);
+    width: 350px;
+    border:  15px solid rgb(0, 113, 128);
+    padding: 50px;
+    text-align: center;
+    margin: 20px;
+  
+  }
+  
+  .work2 {
+    background-color: rgba(211, 211, 211, 0.686);
+    width: 350px;
+    border:  15px solid rgb(0, 113, 128);
+    padding: 50px;
+    text-align: center;
+    margin: 20px;
+  
+  }
+  
+  .work3 {
+    background-color:  rgba(211, 211, 211, 0.686);
+    width: 350px;
+    border: 15px solid rgb(0, 113, 128);
+    padding: 50px;
+    text-align: center;
+    margin: 20px;
+  
+  }
+  
+  
+  .box {
+    display: flex;
+  }
+  
+  .projectFormat {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 25px;
+  }
